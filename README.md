@@ -1,2 +1,2 @@
-# Numpy-Tricks
-An overview of Numpy commands.
+# Collatz
+Investigating Collatz conjecture.
